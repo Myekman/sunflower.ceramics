@@ -1,7 +1,8 @@
 ---
 name: User Story
 about: User story template
-title: User Story
+title: As a **user** I can **view the NavBar on every page** so that **quickly navigate
+  the site**.
 labels: ''
 assignees: ''
 
